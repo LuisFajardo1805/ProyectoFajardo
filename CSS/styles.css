@@ -12,3 +12,18 @@ body{
     margin: 0 auto;
 
 }
+.container .cabecera{
+    box-shadow: 5px 5px 5px 5px gold;
+    background-color: blueviolet;
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    font-size: 35px;
+    border: 2px solid gold;
+}
+.container .cabecera span{
+    font-size: 25px;
+    display: flex;
+    justify-content: flex-end;
+
+}
