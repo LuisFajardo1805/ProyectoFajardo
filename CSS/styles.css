@@ -1,7 +1,7 @@
 body{
     background-color: black;
     color: cadetblue;
-    font-family: 'Courier New', Courier, monospace
+    font-family: Arial, Helvetica, sans-serif
     
 }
 .container {
@@ -20,6 +20,7 @@ body{
     color: white;
     font-size: 35px;
     border: 2px solid gold;
+    font-weight: bolder;
 }
 .container .cabecera span{
     font-size: 25px;
