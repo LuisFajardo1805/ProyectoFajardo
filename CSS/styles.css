@@ -5,7 +5,7 @@ body{
     
 }
 .container {
-    padding: 10px;
+    padding: 0px;
     width: 70%;
     text-align: left;
     border: 1px solid cadetblue;
@@ -14,7 +14,7 @@ body{
 }
 .container .cabecera{
     box-shadow: 5px 5px 5px 5px gold;
-    background-color: blueviolet;
+    background-color:#562483;
     margin: 0%;
     padding: 0%;
     color: white;
@@ -26,5 +26,13 @@ body{
     font-size: 25px;
     display: flex;
     justify-content: flex-end;
+
+}
+.cabecera img {
+    padding: 0;
+    margin: 0;
+    height: 125px;
+    vertical-align: middle;
+    
 
 }
