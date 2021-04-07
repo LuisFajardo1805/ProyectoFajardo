@@ -13,7 +13,7 @@ body{
 
 }
 .container .cabecera{
-    box-shadow: 5px 5px 5px 5px gold;
+    box-shadow: 5px 5px 5px 5px #fcba28;
     background-color:#562483;
     margin: 0%;
     padding: 0%;
